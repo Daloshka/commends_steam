@@ -40,6 +40,3 @@ node index.js
 An API token can be obtained [here](https://rep4rep.com/user/settings/).
 > Never share your rep4rep apiToken with anyone!
 
-
-## Support
-https://discord.com/invite/S8hsc4MCHf
